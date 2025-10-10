@@ -1,0 +1,5 @@
+Boards should be able to tell who is at the top and bottom of the stack. In addition, boards should have programmable CAN termination resistors which are automatically enabled
+
+V4_LINK can only pull 3V3 from hydra pwr or aux batt and not pyro pwr. It should be able to pull 3V3 from all 3.
+
+Missing fuses on VCC for TCAN1146
