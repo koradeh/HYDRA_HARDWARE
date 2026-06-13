@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=CAM_1 Pin=J8-1
-Removed Member From Class: ClassName=50SINGLE Member=CAM_3
-Added Pin To Net: NetName=CAM_1 Pin=J10-1
-Add Net: Net with name "CAM_1" already exists

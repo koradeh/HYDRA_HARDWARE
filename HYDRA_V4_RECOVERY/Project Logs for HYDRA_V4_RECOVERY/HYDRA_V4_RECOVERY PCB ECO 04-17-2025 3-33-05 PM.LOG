@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=MAIN_V_SENSE Pin=U8-24
-Removed Pin From Net: NetName=MAIN_TRIG Pin=U8-25
-Added Pin To Net: NetName=DROGUE_V_SENSE Pin=U8-24
-Added Pin To Net: NetName=MAIN_V_SENSE Pin=U8-25

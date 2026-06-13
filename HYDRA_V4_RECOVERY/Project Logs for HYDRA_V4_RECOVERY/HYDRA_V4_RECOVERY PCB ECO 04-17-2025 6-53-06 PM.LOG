@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=MAIN_TRIG Pin=U8-91
-Removed Pin From Net: NetName=DROGUE_TRIG Pin=U8-92
-Added Pin To Net: NetName=DROGUE_TRIG Pin=U8-91
-Added Pin To Net: NetName=MAIN_TRIG Pin=U8-92

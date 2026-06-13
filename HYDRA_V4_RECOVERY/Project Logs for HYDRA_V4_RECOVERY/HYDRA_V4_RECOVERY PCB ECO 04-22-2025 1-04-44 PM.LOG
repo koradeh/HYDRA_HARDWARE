@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=AVDD Pin=R47-2
-Removed Member From Class: ClassName=CAMERA_IF Member=R47
-Added Pin To Net: NetName=nINTRQ Pin=U8-69

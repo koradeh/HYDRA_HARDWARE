@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=DROGUE_I_SENSE Pin=U8-32
-Removed Pin From Net: NetName=MAIN_I_SENSE Pin=U8-33
-Added Pin To Net: NetName=DROGUE_I_SENSE Pin=U8-31
-Added Pin To Net: NetName=MAIN_I_SENSE Pin=U8-32
-Added Pin To Net: NetName=NetR41_1 Pin=U8-33

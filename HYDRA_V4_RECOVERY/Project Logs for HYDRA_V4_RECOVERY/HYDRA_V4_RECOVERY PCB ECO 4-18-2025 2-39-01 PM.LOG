@@ -1,6 +1,0 @@
-Change Component DesignItemId : Designator=J6 Old DesignItemId=CMP-002-00042-2 New DesignItemId=CMP-002-00042-3
-Change Component DesignItemId : Designator=J7 Old DesignItemId=CMP-002-00042-2 New DesignItemId=CMP-002-00042-3
-Change Component Footprint: Designator=J6 Old Footprint=TFML-110-02-L-D-A-Footprint-1 New Footprint=TFML-110-02-L-D-A-Footprint-1
-Change Component Footprint: Designator=J7 Old Footprint=TFML-110-02-L-D-A-Footprint-1 New Footprint=TFML-110-02-L-D-A-Footprint-1
-Change Managed Component Library Link : Designator=J6 Old VaultGUID=275DD9A0-BDD9-47D7-8C38-F690E90B05B9 New VaultGUID=275DD9A0-BDD9-47D7-8C38-F690E90B05B9 Old ItemGUID=7567f15b-65c1-487c-acac-cd27ad5bee64 New ItemGUID=7567f15b-65c1-487c-acac-cd27ad5bee64 Old RevisionGUID=a4c2f3cb-2b91-4b01-bd24-607e8db5ce8b New RevisionGUID=ace9bbf0-1d57-4b26-b7a1-9d57c071678b
-Change Managed Component Library Link : Designator=J7 Old VaultGUID=275DD9A0-BDD9-47D7-8C38-F690E90B05B9 New VaultGUID=275DD9A0-BDD9-47D7-8C38-F690E90B05B9 Old ItemGUID=7567f15b-65c1-487c-acac-cd27ad5bee64 New ItemGUID=7567f15b-65c1-487c-acac-cd27ad5bee64 Old RevisionGUID=a4c2f3cb-2b91-4b01-bd24-607e8db5ce8b New RevisionGUID=ace9bbf0-1d57-4b26-b7a1-9d57c071678b
