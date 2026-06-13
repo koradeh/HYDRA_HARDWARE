@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=TXD Pin=R10-2
-Removed Pin From Net: NetName=RXD Pin=R16-2
-Removed Member From Class: ClassName=GPS_0 Member=R10
-Removed Member From Class: ClassName=GPS_0 Member=R16
-Added Pin To Net: NetName=TXD Pin=U1-95
-Added Pin To Net: NetName=RXD Pin=U1-96

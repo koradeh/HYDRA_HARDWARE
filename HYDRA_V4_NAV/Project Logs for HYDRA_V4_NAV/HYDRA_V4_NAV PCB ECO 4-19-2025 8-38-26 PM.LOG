@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=PRE_ZENER_CAN_INH Pin=U6-7
-Added Pin To Net: NetName=NetC1_1 Pin=U1-32
-Added Pin To Net: NetName=NetR51_2 Pin=U1-33
-Added Pin To Net: NetName=TCAN1146_INH Pin=U6-7
-Added Net: Name=TCAN1146_INH

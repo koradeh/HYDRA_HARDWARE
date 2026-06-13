@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=CAN3_TX Pin=U2-1
-Removed Pin From Net: NetName=CAN3_RX Pin=U2-4
-Removed Pin From Net: NetName=CAN1_TX Pin=U6-1
-Removed Pin From Net: NetName=CAN1_RX Pin=U6-4
-Added Pin To Net: NetName=CAN1_TX Pin=U2-1
-Added Pin To Net: NetName=CAN1_RX Pin=U2-4
-Added Pin To Net: NetName=CAN3_TX Pin=U6-1
-Added Pin To Net: NetName=CAN3_RX Pin=U6-4

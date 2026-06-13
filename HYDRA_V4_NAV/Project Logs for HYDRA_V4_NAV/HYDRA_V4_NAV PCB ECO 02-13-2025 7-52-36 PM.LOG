@@ -1,4 +1,0 @@
-Added Pin To Net: NetName=BARO_SCLK Pin=U1-1
-Added Pin To Net: NetName=BARO0_nCS Pin=U1-3
-Added Pin To Net: NetName=BARO_MISO Pin=U1-4
-Added Pin To Net: NetName=BARO_MOSI Pin=U1-5

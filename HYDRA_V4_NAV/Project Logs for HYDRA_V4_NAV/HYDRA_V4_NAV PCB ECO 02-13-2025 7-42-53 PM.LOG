@@ -1,6 +1,0 @@
-Added Pin To Net: NetName=RXD Pin=R84-2
-Added Pin To Net: NetName=RXD Pin=U12-12
-Added Net: Name=RXD
-Added Pin To Net: NetName=TXD Pin=R83-2
-Added Pin To Net: NetName=TXD Pin=U12-11
-Added Net: Name=TXD
