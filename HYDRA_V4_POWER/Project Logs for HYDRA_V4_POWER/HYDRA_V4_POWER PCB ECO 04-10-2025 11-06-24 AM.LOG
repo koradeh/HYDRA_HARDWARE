@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=HYDRA_3V3_PG Pin=U9-43
-Removed Pin From Net: NetName=IMON_LS_2 Pin=U9-44
-Added Pin To Net: NetName=IMON_LS_2 Pin=U9-43
-Added Pin To Net: NetName=HYDRA_3V3_PG Pin=U9-44

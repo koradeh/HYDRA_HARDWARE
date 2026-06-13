@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=IMON_LS_0 Pin=U9-40
-Removed Member From Class: ClassName=EXT_PWR_PROT Member=D8
-Added Pin To Net: NetName=IMON_LS_0 Pin=U9-33
-Added Pin To Net: NetName=NetU9_40 Pin=U9-40
-Added Net: Name=NetU9_40
-Added Member To Class: ClassName=EXT_PWR_PROT Member=Component D6 CZRU52C3V3
-Added Member To Class: ClassName=HYDRA_REGULATORS Member=Component R2 100k

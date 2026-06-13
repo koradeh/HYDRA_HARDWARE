@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=V_SENSE Pin=U9-9
-Added Pin To Net: NetName=NetU1_11 Pin=U9-9
-Added Pin To Net: NetName=V_SENSE Pin=U9-11
-Added Pin To Net: NetName=NetR54_1 Pin=U9-12
-Added Pin To Net: NetName=M3_I_SENSE Pin=U9-13

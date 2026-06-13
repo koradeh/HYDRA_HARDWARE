@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=HYDRA_VCC_PG Pin=U8-1
-Removed Pin From Net: NetName=HYDRA_5V_PG Pin=U8-3
-Removed Pin From Net: NetName=HYDRA_3V3_PG Pin=U8-6
-Added Pin To Net: NetName=HYDRA_3V3_PG Pin=U8-1
-Added Pin To Net: NetName=HYDRA_VCC_PG Pin=U8-3
-Added Pin To Net: NetName=HYDRA_5V_PG Pin=U8-6

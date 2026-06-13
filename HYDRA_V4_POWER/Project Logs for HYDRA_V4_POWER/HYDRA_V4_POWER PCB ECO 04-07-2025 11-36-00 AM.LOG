@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=Q14-1
-Removed Pin From Net: NetName=PRE_SFTY_MOS Pin=Q14-6
-Removed Member From Class: ClassName=RP_AND_SAFETYSW Member=Q14
-Added Pin To Net: NetName=GND Pin=Q16-1
-Added Pin To Net: NetName=PRE_SFTY_MOS Pin=Q16-6
-Added Pin To Net: NetName=NetQ16_2 Pin=Q16-2
-Added Pin To Net: NetName=NetQ16_2 Pin=R56-1
-Added Pin To Net: NetName=NetQ16_2 Pin=R57-1
-Added Net: Name=NetQ16_2
