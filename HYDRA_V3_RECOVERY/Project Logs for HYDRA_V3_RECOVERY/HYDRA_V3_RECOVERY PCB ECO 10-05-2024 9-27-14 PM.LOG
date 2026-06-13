@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=CAN_nCS Pin=U6-26
-Removed Pin From Net: NetName=CAN_SCLK Pin=U6-27
-Removed Pin From Net: NetName=CAN_MISO Pin=U6-28
-Removed Pin From Net: NetName=CAN_MOSI Pin=U6-29
-Added Pin To Net: NetName=CAN_nCS Pin=U6-12
-Added Pin To Net: NetName=CAN_SCLK Pin=U6-13
-Added Pin To Net: NetName=CAN_MISO Pin=U6-14
-Added Pin To Net: NetName=CAN_MOSI Pin=U6-15

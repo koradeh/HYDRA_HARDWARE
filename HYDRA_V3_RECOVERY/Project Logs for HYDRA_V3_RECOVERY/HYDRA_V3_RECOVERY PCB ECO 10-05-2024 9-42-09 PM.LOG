@@ -1,8 +1,0 @@
-Added Pin To Net: NetName=CAN1_RX Pin=U6-33
-Added Pin To Net: NetName=CAN1_TX Pin=U6-34
-Added Pin To Net: NetName=CAN2_RX Pin=U6-26
-Added Pin To Net: NetName=CAN2_RX Pin=U7-4
-Added Net: Name=CAN2_RX
-Added Pin To Net: NetName=CAN2_TX Pin=U6-27
-Added Pin To Net: NetName=CAN2_TX Pin=U7-1
-Added Net: Name=CAN2_TX

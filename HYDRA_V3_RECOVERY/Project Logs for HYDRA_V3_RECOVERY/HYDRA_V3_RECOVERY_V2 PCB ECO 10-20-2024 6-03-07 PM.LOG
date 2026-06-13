@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=IMU_nCS Pin=U6-41
-Removed Pin From Net: NetName=MAIN_TRIG Pin=U6-44
-Removed Pin From Net: NetName=DROGUE_TRIG Pin=U6-46
-Added Pin To Net: NetName=MAIN_TRIG Pin=U6-41
-Added Pin To Net: NetName=DROGUE_TRIG Pin=U6-44
-Added Pin To Net: NetName=IMU_nCS Pin=U6-46

@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=MAIN_SENSE Pin=U6-9
-Removed Pin From Net: NetName=DROGUE_SENSE Pin=U6-11
-Removed Member From Class: ClassName=EJECTION_CIRCUIT_0 Member=DS1
-Added Pin To Net: NetName=DROGUE_SENSE Pin=U6-9
-Added Pin To Net: NetName=MAIN_SENSE Pin=U6-11
