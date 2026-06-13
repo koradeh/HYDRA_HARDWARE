@@ -1,3 +1,0 @@
-Change Component DesignItemId : Designator=U5 Old DesignItemId=CMP-019-00052-1 New DesignItemId=CMP-019-00052-2
-Change Component Footprint: Designator=U5 Old Footprint=FP-DSJ0014A-MFG New Footprint=FP-DSJ0014A-MFG
-Change Managed Component Library Link : Designator=U5 Old VaultGUID=275DD9A0-BDD9-47D7-8C38-F690E90B05B9 New VaultGUID=275DD9A0-BDD9-47D7-8C38-F690E90B05B9 Old ItemGUID=121bdfb5-dfa8-4c4b-839d-367ff7ad058e New ItemGUID=121bdfb5-dfa8-4c4b-839d-367ff7ad058e Old RevisionGUID=dccfd69e-bfab-405e-93b2-c55ca0ab9dad New RevisionGUID=354e6fc7-612d-48a5-ae08-6e4e7213d5b5

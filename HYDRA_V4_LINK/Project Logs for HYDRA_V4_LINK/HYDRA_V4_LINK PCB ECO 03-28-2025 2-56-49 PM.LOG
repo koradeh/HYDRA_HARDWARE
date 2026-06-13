@@ -1,9 +1,0 @@
-Change Net Name : Old Net Name=NetC27_1 New Net Name=RX_P
-Change Net Name : Old Net Name=NetC28_1 New Net Name=RX_N
-Change Net Name : Old Net Name=NetR60_1 New Net Name=TX_P
-Change Net Name : Old Net Name=NetR63_2 New Net Name=TX_N
-Add Net: Net with name "CAN_INH" already exists
-Added Differential Pair: Name=RX
-Added Differential Pair: Name=TX
-Added Member To Class: ClassName=ETHERNET Member=RX
-Added Member To Class: ClassName=ETHERNET Member=TX

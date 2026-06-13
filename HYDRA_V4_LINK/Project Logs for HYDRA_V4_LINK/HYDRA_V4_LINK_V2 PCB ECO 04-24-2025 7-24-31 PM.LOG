@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=PG_N Pin=U12-41
-Removed Member From Class: ClassName=MCU Member=D7
-Removed Member From Class: ClassName=MCU Member=R90
-Removed Member From Class: ClassName=MCU Member=R91
-Added Pin To Net: NetName=MCU_G_LED Pin=U12-41
-Added Pin To Net: NetName=MCU_R_LED Pin=U12-45
-Added Member To Class: ClassName=HYDRA_V4_LINK Member=Component D7 150066RG54050
-Added Member To Class: ClassName=HYDRA_V4_LINK Member=Component R90 330
-Added Member To Class: ClassName=HYDRA_V4_LINK Member=Component R91 330

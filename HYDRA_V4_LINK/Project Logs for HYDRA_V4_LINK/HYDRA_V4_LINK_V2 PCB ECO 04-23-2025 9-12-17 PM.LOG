@@ -1,8 +1,0 @@
-Added Pin To Net: NetName=nREG_FLT Pin=U12-30
-Added Pin To Net: NetName=BATT_TS Pin=U12-38
-Added Pin To Net: NetName=CHG_N Pin=U12-39
-Added Pin To Net: NetName=ISET2 Pin=U12-40
-Added Pin To Net: NetName=PG_N Pin=U12-41
-Added Pin To Net: NetName=NetR58_2 Pin=U12-42
-Added Pin To Net: NetName=BST_nFLT Pin=U12-44
-Added Pin To Net: NetName=NetR27_2 Pin=U12-45

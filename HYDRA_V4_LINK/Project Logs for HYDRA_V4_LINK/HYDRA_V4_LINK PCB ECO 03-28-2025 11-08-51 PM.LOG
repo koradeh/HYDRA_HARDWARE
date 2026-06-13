@@ -1,5 +1,0 @@
-Added Pin To Net: NetName=X25_P Pin=U11-30
-Added Pin To Net: NetName=X25_N Pin=U11-31
-Change Net Name : Old Net Name=X25_N New Net Name=ETH_X_N
-Change Net Name : Old Net Name=X25_P New Net Name=ETH_X_P
-Add Net: Net with name "CAN_INH" already exists

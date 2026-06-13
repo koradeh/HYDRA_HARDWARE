@@ -1,3 +1,0 @@
-Added Pin To Net: NetName=ETH_nRST Pin=U12-22
-Added Pin To Net: NetName=ETH_nINT Pin=U12-23
-Added Member To Class: ClassName=OC_PROT Member=Component Q? DMG1013UW-7

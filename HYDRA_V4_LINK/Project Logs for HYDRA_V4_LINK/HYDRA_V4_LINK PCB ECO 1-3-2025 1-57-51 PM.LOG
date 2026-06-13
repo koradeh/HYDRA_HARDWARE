@@ -1,8 +1,0 @@
-Added Pin To Net: NetName=BATT_nEN Pin=Q8-1
-Added Pin To Net: NetName=VCC Pin=Q8-2
-Added Pin To Net: NetName=CAN_INH Pin=Q8-3
-Added Pin To Net: NetName=NetQ9_1 Pin=Q9-1
-Added Pin To Net: NetName=GND Pin=Q9-2
-Added Pin To Net: NetName=NetQ9_3 Pin=Q9-3
-Added Member To Class: ClassName=UPS Member=Component Q8 DMG1013UW-7
-Added Member To Class: ClassName=UPS Member=Component Q9 BSS138W-7-F

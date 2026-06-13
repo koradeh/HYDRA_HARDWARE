@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=INT_3V3 Pin=Q4-2
-Removed Pin From Net: NetName=INT_3V3 Pin=R82-2
-Added Pin To Net: NetName=3V3_OUT Pin=Q4-2
-Added Pin To Net: NetName=3V3_OUT Pin=R82-2

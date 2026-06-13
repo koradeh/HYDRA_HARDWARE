@@ -1,2 +1,0 @@
-Removed Pin From Net: NetName=REG_OUT Pin=R47-2
-Added Pin To Net: NetName=INT_3V3 Pin=R47-2
